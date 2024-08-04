@@ -4,6 +4,8 @@
 
 You can see XML2Tree in action on the [XMLFormatter.online](https://xmlformatter.online/).
 
+Blog on: [XML在线工具及代码开源](https://chenwenguan.com/xml-online-tool-and-opensource/)
+
 ## Features
 
 - **XML and XSD Support**: Converts both XML and XSD formats into an interactive tree structure.
