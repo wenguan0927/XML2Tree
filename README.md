@@ -2,9 +2,7 @@
 
 **XML2Tree** is a JavaScript library that visualizes XML and XSD (XML Schema) data as an interactive tree structure using D3.js. The library provides a user-friendly way to parse and render hierarchical data, making it easy to understand and explore the structure of XML documents and schemas.
 
-You can see XML2Tree in action on the [XMLFormatter.online](https://xmlformatter.online/).
-
-Blog on the [XML在线工具及代码开源](https://chenwenguan.com/xml-online-tool-and-opensource/)
+You can see XML2Tree in action on the [XMLFormatter.online](https://xmlformatter.online/), and blog on the [XML在线工具及代码开源](https://chenwenguan.com/xml-online-tool-and-opensource/).
 
 ## Features
 
