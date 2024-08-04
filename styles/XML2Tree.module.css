@@ -1,0 +1,67 @@
+.scroll-container {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    cursor: grab;
+}
+
+.scroll-container:active {
+    cursor: grabbing;
+}
+
+.treeContainer {
+    width: 100%;
+    height: 100%;
+}
+
+.svg-container {
+    cursor: move;
+    overflow: visible;
+}
+
+.top {
+    text-align: center;
+}
+.title {
+    display: inline;
+}
+.authors {
+    display: inline-block;
+    max-width: 28%;
+    font-size: smaller;
+}
+.mentor {
+    text-align: right;
+}
+.content {
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.floor {
+    position: fixed;
+    bottom: 0px;
+    text-align: right;
+    width: 100%;
+}
+.logoImage {
+    width: 12%;
+    height: 12%;
+}
+.node {
+    cursor: pointer;
+}
+.node circle {
+    fill: #F27232;
+    stroke: black;
+    stroke-width: 3px;
+}
+.node text {
+    font: 12px sans-serif;
+}
+.link {
+    fill: none;
+    stroke: orange;
+    stroke-width: 2px;
+}
