@@ -4,7 +4,7 @@
 
 You can see XML2Tree in action on the [XMLFormatter.online](https://xmlformatter.online/).
 
-Blog on: [XML在线工具及代码开源](https://chenwenguan.com/xml-online-tool-and-opensource/)
+Blog on the [XML在线工具及代码开源](https://chenwenguan.com/xml-online-tool-and-opensource/)
 
 ## Features
 
