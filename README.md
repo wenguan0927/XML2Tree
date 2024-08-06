@@ -60,6 +60,8 @@ const xml2TreeInstance = new XML2Tree({
 // Append the tree to a specific DOM element
 xml2TreeInstance.renderTo('#treeContainer');
 ```
+![image](https://github.com/user-attachments/assets/6c4374f6-33ea-4a7b-bce5-1707f47c8716)
+
 
 ## Example XML Data and Tree View
 ```
