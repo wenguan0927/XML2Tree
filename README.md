@@ -61,6 +61,24 @@ const xml2TreeInstance = new XML2Tree({
 xml2TreeInstance.renderTo('#treeContainer');
 ```
 
+## Example XML Data and Tree View
+```
+<library>
+    <book>
+        <title>XMLBasics</title>
+        <author>JohnDoe</author>
+        <year>2023</year>
+    </book>
+    <book>
+        <title>AdvancedXML</title>
+        <author>JaneSmith</author>
+        <year>2024</year>
+    </book>
+</library>
+```
+![ic_xml_formatter_online_tree](https://github.com/user-attachments/assets/be7ffe43-072b-4652-8226-c889d28a2510)
+
+
 ## Options
 
 - **xmlText**: The XML or XSD text to be converted and visualized.
